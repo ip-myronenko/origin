@@ -1,7 +1,7 @@
 # Twitter Bootstrap
 
-![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
-**Twitter Bootstrap** - популярный набор компонетов для фронтенд-разработки.
+![Bootstrap logo](https://i.imgur.com/qhtywl2.png)  
+**Twitter Bootstrap** - популярный набор компонетов для фронтенд-разработки.     
 Пострен на базе следующих технологий:
 * HTML;
 * CSS;
@@ -32,5 +32,6 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 ```
 
-## Использование
+### Использование
 Все возможности по использованию описаны в [официальной документации](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
+{  text-decoration: none;}
