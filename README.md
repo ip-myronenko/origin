@@ -6,7 +6,9 @@
 * HTML;
 * CSS;
 * JavaScript.
-
+<style>
+   a { text-decoration: none;} 
+  </style>
 ## Начало работы
 Есть несколько вариантов подключения:
 1. Пакетный менеджер [npm](https://npmjs.com);
@@ -30,3 +32,6 @@
 
 ### Использование
 Все возможности по использованию описаны в [официальной документации](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
+```python
+print("Привет, мир!")
+```
